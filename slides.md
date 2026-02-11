@@ -66,3 +66,7 @@ hideInToc: true
 ---
 
 # What is KVM?
+
+---
+src: ./minikube/minikube-slides.md
+---
