@@ -256,6 +256,7 @@ sudo dpkg -i minikube_latest_amd64.deb
 ```
 
 ```bash
+minikube config set rootless true
 minikube start
 ```
 
